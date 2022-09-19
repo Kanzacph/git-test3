@@ -1,0 +1,4 @@
+# Filer der ikke skal med
+node_modules
+# Kommer ik med
+.env
